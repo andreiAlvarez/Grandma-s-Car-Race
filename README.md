@@ -1,6 +1,6 @@
 #Grandma's Car Race
 Live Demo: https://andreialvarez.github.io/Grandma-s-Car-Race/
-[Live Demo](https://andreialvarez.github.io/Grandma-s-Car-Race/)
+
 
 Would you beat a grandmother in a car race?
 
@@ -8,6 +8,8 @@ This game is a car race. I decided to do it because as a child, the few video ga
 
 
 Grandma has a record, that whoever plays has to break it.
+
+https://github.com/andreiAlvarez/Grandma-s-Car-Race/blob/master/Broken%20Record.png
 
 The obstacles were many, based on the fact that I had never worked with these technologies before and the great amount of knowledge we received in each lesson. But, with the help of the course, and from Sandra and Stefan, here I am now. 
 
