@@ -1,7 +1,7 @@
 #Grandma's Car Race
 Live Demo: https://andreialvarez.github.io/Grandma-s-Car-Race/
 
-![](Grandma's Car Race Logo.png)
+![Logo](Grandma's Car Race Logo.png)
 
 
 Would you beat a grandmother in a car race?
