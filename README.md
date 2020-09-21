@@ -1,23 +1,20 @@
-#Grandma's Car Race
+# Would you beat a grandmother in a car race?
+![Logo](https://github.com/andreiAlvarez/Grandma-s-Car-Race/blob/master/Grandma's%20Car%20Race%20Logo.png)
 
 [Live Demo](https://andreialvarez.github.io/Grandma-s-Car-Race/)
 
+This game is a car race and has a character, which I would like to introduce to you: please meet Grandma. 
+
+Grandma has a record of 8000 points, that whoever plays has to break it.
+
+![Car Race](https://github.com/andreiAlvarez/Grandma-s-Car-Race/blob/master/Screen%20One%20Game.png)
+
+![If Grandma wins](https://github.com/andreiAlvarez/Grandma-s-Car-Race/blob/master/Grandma%20won!.png)
+
+Do you dare to play against grandma? 
+
+![If you are the winner](https://github.com/andreiAlvarez/Grandma-s-Car-Race/blob/master/Broken%20Record.png)
 
 
-![Logo](https://github.com/andreiAlvarez/Grandma-s-Car-Race/blob/master/Grandma's%20Car%20Race%20Logo.png)
 
 
-Would you beat a grandmother in a car race?
-
-This game is a car race. I decided to do it because as a child, the few video games I played were almost always car races. This race has a character, which I would like to introduce to you: please meet Grandma. 
-
-
-Grandma has a record, that whoever plays has to break it.
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
-
-
-The obstacles were many, based on the fact that I had never worked with these technologies before and the great amount of knowledge we received in each lesson. But, with the help of the course, and from Sandra and Stefan, here I am now. 
-
-I did very little technical project planning work. I came up with an idea, tried to do something different, and it happened, I was telling Stefan on Saturday that I almost always start programming at the end. When I put in a line of code, then I realize I had to have done five things before declaring that, but we are learning.
