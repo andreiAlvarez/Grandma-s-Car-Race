@@ -1,5 +1,7 @@
 #Grandma's Car Race
-Live Demo: https://andreialvarez.github.io/Grandma-s-Car-Race/
+[Live Demo] (https://andreialvarez.github.io/Grandma-s-Car-Race)
+
+[GitHub](http://github.com)
 
 ![Logo](Grandma's Car Race Logo.png)
 
