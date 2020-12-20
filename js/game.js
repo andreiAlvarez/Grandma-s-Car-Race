@@ -92,7 +92,6 @@ const createObstacle = () => {
 let obstaclesInterval = setInterval(createObstacle, 3000);
 
 //getting game controlls 
-
 document.body.onkeydown = function (e) {
         switch (e.keyCode) {
             case 40:
@@ -129,17 +128,13 @@ document.body.onkeydown = function (e) {
     
 };
 
-
 //collision detection settings
-
 function collisionDetection(objOne, objTwo) {
     return (objOne.y + objOne.height - 10>= objTwo.y &&
         objOne.y <= objTwo.y + objTwo.height - 10 &&
         objOne.x + objOne.width - 10 >= objTwo.x &&
         objOne.x <= objTwo.x + objTwo.width - 10) 
 }
-
-
 
 //drawing everything
 function gameLoop() {
@@ -208,7 +203,6 @@ function startGame() {
     })
 }
 
-
 // gameover
 function gameOver() {
     ctx.clearRect(0, 0, 1066, 500);
@@ -216,7 +210,7 @@ function gameOver() {
     ctx.fillText("Grandma won! Please try next time!", 600, 250);
     ctx.fillText(`Your score: ${score}`, 600, 350);
     ctx.fillText(`Grandma's record: ${grandmaR.score}`, 600, 400);
-    console.log("Game Over!")
+    console.log("Game Over!");
 }
 
 // checking for new record
